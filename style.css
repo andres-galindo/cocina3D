@@ -180,7 +180,7 @@ body {
 
 .cajones-dos {
     width: 83px;
-    height: 20.5;
+    height: 20.5px;
     background: black;
     position: absolute;
     transform: translateZ(-78px) translateX(-84px) translateY(98px);
